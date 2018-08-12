@@ -8,5 +8,6 @@ public class CourseSprinbBootIonicApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CourseSprinbBootIonicApplication.class, args);
+		
 	}
 }
